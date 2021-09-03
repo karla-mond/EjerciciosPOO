@@ -1,0 +1,5 @@
+#referencias circulares
+#la clase seats necesita un atributo de que administrador lo reservo
+#utilizar Person *q en vez de Person q;
+#utilizar forward declaration
+#saber donde poner la implementación, el include hasta el cpp/implementación
