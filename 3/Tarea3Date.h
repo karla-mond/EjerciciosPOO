@@ -18,7 +18,7 @@ class Date
         Date();
         Date(int day, int numMonth, string month, int year);
         int getDay();
-        int getYear();
+        int getYear(); 
         int getNumMonth();
         string getMonth();
 
